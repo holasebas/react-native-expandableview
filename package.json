@@ -1,0 +1,16 @@
+{
+  "name": "react-native-expandableview",
+  "version": "1.0.0",
+  "description": "React native expandable view",
+  "main": "src/index.js",
+  "keywords": [
+    "reactnative",
+    "javascript" 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holasebas/instagramclone.git"
+  },
+   "author": "Sebastian Diaz",
+   "license": "MIT"
+}
